@@ -11,7 +11,7 @@ User-friendly interface built using Tkinter.
 
 Installation
 Clone the repository to your local machine:
-git clone https://github.com/your-username/typing-speed-test.git
+https://github.com/DevSingh28/Typing-Test-Tkinter.git
 
 Navigate to the project directory:
 cd typing-speed-test
@@ -34,16 +34,4 @@ Screenshots
 Contributing
 Contributions are welcome! If you would like to contribute to this project, please follow these steps:
 
-Fork the repository.
 
-Create a new branch:
-
-git checkout -b feature/my-feature
-
-Make your changes and commit them:
-
-git commit -m "Add new feature"
-
-Push to the branch:
-
-git push origin feature/my-feature
